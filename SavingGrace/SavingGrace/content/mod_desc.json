@@ -1,0 +1,7 @@
+{
+	"displayedName": "Saving Grace",
+	"prefix": "saving",
+	"description": "This adds shortcut key for quicksaving and loading, and allows customizing the number and frequency of autosaves. ''Control + S'' to quicksave, 'Control + L' to load it.",
+	"versionsSupported":["1.0"],
+	"modCredit": "Llamageddon"
+}

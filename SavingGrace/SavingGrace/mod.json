@@ -1,0 +1,6 @@
+{
+	"title": "Saving Grace",
+	"description": "This adds shortcut key for quicksaving and loading, and allows customizing the number and frequency of autosaves. ''Control + S'' to quicksave, 'Control + L' to load it.",
+	"tags": [ "utility" ]
+
+}

@@ -1,0 +1,25 @@
+{
+  "options": [
+    {
+      "defaultBoolValue": "true",
+      "description": "If true, the game will use the custom values entered below",
+      "name": "Enable custom autosaves?"
+    },
+    {
+      "defaultValue": 5,
+      "description": "The number of saves the game should keep before overwiting",
+      "isInteger": "true",
+      "maxValue": 999,
+      "minValue": 0,
+      "name": "Number of autosaves"
+    },
+    {
+      "defaultValue": 15,
+      "description": "How many turns the game should wait between autosaving",
+      "isInteger": "true",
+      "maxValue": 999,
+      "minValue": 0,
+      "name": "Turns between autosaves"
+    }
+  ]
+}
