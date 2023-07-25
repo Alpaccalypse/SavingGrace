@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace SavingGraceMod
 {
-    internal class QuicksavingGrace
+    public class QuicksavingGrace
     {
 
         public static Dictionary<KeyCode, System.Action> saveMappings = new Dictionary<KeyCode, System.Action>
